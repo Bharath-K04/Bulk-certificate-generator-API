@@ -1,0 +1,16 @@
+{
+  "certificate": {
+    "course_name": "Drone Data Analytics Bootcamp",
+    "issued_by": "AEREO Academy",
+    "issue_date": "2026-10-07"
+  },
+  "recipients": [
+    {"name": "Asha Rao", "email": "asha@example.com"},
+    {"name": "Vikram Singh", "email": "vikram@example.com"},
+    {"name": "Meera Iyer", "email": "meera@example.com"},
+    {"name": "Rahul Menon", "email": "not-an-email"},
+    {"name": "", "email": "blank@example.com"},
+    {"name": "Asha Duplicate", "email": "ASHA@example.com"},
+    {"name": "Karthik Subramaniam Venkataraman Iyengar", "email": "karthik@example.com"}
+  ]
+}

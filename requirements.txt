@@ -1,0 +1,11 @@
+﻿fastapi>=0.115,<1.0
+uvicorn[standard]>=0.30
+sqlalchemy>=2.0,<3.0
+pydantic[email]>=2.7,<3.0
+pydantic-settings>=2.3,<3.0
+reportlab>=4.2,<5.0
+
+# testing
+pytest>=8.0
+httpx2
+pypdf>=4.0
